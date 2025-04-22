@@ -810,6 +810,9 @@ footer {
     max-width: 90%;
     width: 100%;
     min-height: fit-content;
+    height: auto;
+    flex-basis: auto;
+    flex: 0 1 auto;
   }
 
   .feature p {
